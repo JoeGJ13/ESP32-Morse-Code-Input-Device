@@ -57,6 +57,7 @@ Input and output display loop
 This is relatively Simple diagram which is basically a jumper wire connected to T4 pin of the ESP32 
 
 # Build Photos
+![3](https://github.com/user-attachments/assets/c6c27082-ce61-4bbd-a80f-31b8be683366)
 
 ### Project Demo
 # Video
