@@ -12,7 +12,7 @@
 - Member 2: Aaron Binoy - STGITS
 
 ### Project Description
-A input device that uses Morse code for inputting. The device recieves input in morse code and converts it into respective English characters and numbers
+An input device that uses Morse code for inputting. The device recieves input in morse code and converts it into respective English and numberical characters
 ### The Problem (that doesn't exist)
 Normal typing using keyboard is boring and quick (like guns[Dark knight reference]) where Morse code is fun and slow 
 
